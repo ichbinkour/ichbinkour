@@ -13,5 +13,5 @@ I'm a VueJs passionate and I try everyday to improve my skills by creating web a
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ichbinkour)](https://github.com/ichbinkour/github-readme-stats)
+
